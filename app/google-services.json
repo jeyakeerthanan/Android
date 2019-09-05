@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028412502323",
+    "firebase_url": "https://easy-travel-83caa.firebaseio.com",
+    "project_id": "easy-travel-83caa",
+    "storage_bucket": "easy-travel-83caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028412502323:android:c717000376dd5db7",
+        "android_client_info": {
+          "package_name": "com.example.easytravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028412502323-2tpmptqh9811ec54em7928rtvtoerr1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easytravel",
+            "certificate_hash": "089736ff494a242ba37498fc957a265752e411ec"
+          }
+        },
+        {
+          "client_id": "1028412502323-r1plslfs1p56k2b1behm2hoqf7u25sac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARns_P2NCF8G9IL0fGCuKpnx6JPzgacr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028412502323-r1plslfs1p56k2b1behm2hoqf7u25sac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
